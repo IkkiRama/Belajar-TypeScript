@@ -1,0 +1,20 @@
+"use strict";
+console.log("Hello, Belajar Tipe data");
+let nama = "Rifki";
+let jurusan = "RPL";
+let umur = 17;
+let isJomblo = true;
+nama = 10;
+console.log(`Nama saya ${nama}, dan saya berumur ${umur} tahun. saya sekarang berada di jurusan ${jurusan}`);
+console.log(`Saya ${isJomblo ? "Jomblo" : "Tidak jomblo"}`);
+let heroes = "Ultraman";
+heroes = 1;
+heroes = true;
+heroes = [];
+heroes = true || false || {} || [] || "Rifki";
+console.log(heroes);
+// Union Type
+let nilai;
+nilai = 10;
+nilai = "10";
+nilai = true;
