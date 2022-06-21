@@ -1,3 +1,9 @@
+// Visibility / Access Modifiers
+// public - accessible from everywhere
+// private - accessible only inside the class
+// protected - accessible inside the class and by inherited classes
+
+
 class Hewan7{
     public nama:string;
     private kaki:number;
