@@ -21,7 +21,7 @@ heroes = true || false || {} || [] || "Rifki"
 console.log(heroes);
 
 
-
+ 
 
 // Union Type
 let nilai:number | string
